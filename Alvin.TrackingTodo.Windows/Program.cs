@@ -14,6 +14,7 @@ namespace Alvin.TrackingTodo.Windows
         [STAThread]
         static void Main()
         {
+            //tettt
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Home());
